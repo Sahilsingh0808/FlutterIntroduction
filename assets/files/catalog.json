@@ -1,0 +1,45 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "ROG",
+      "desc": "ROG Phone Asus",
+      "color": "#33505a",
+      "price": 999,
+      "image":"https://www.gizmochina.com/wp-content/uploads/2020/06/Asus-ROG-Phone-3.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Pixel 5",
+      "desc": "Google Pixel 5",
+      "color": "#33505a",
+      "price": 799,
+      "image": "https://images-na.ssl-images-amazon.com/images/I/81AqwYyZjzL._AC_SL1500_.jpg"
+    },
+    {
+      "id": 3,
+      "name": "IPhone12",
+      "desc": "Apple IPhone 12",
+      "color": "#33505a",
+      "price": 1399,
+      "image": "https://www.gizmochina.com/wp-content/uploads/2020/05/iphone-12-pro-max-family-hero-all-600x600.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Samsung S20",
+      "desc": "Samsung S20 Flagship",
+      "color": "#33505a",
+      "price": 1199,
+      "image": "https://www.gizmochina.com/wp-content/uploads/2020/02/Samsung-Galaxy-S20-Plus-500x500.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Moto Edge",
+      "desc": "Motorola Edge",
+      "color": "#33505a",
+      "price": 999,
+      "image": "https://images.hothardware.com/contentimages/newsitem/52299/content/motorola_edge_2.jpg"
+    }
+
+  ]
+}
